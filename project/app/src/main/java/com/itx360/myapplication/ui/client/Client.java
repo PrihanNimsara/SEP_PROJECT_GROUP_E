@@ -13,5 +13,5 @@ public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle sa
 //add your code here
         return null;
         }
-
+//conflict resolved
         }
