@@ -20,6 +20,7 @@ public class GalleryFragment extends Fragment {
 
 
     private GalleryViewModel galleryViewModel;
+	
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
